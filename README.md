@@ -30,7 +30,4 @@
  
   ![Snake animation](https://github.com/jmo89/jmo89/blob/output/github-contribution-grid-snake.svg)
 
-## Estatisticas
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmo89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 </div>
