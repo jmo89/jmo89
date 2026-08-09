@@ -34,7 +34,7 @@
   <a href = "https://www.facebook.com/joelmd2" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
 
- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/jmo89/jmo89/output/github-contribution-grid-snake.svg" />
+ <img alt="GitHub Snake" src="https://raw.githubusercontent.com/jmo89/jmo89/output/github-contribution-grid-snake-dark.svg" />
 
 
 </div>
